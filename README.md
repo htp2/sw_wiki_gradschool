@@ -1,3 +1,6 @@
+# To the Wiki:
+https://github.com/htp2/sw_wiki_gradschool/wiki
+
 # Purpose
 This wiki is provided "as-is" as a resource to future students, researchers, engineers, etc. It contains an unofficial, loose collection of information and links to SW I created, edited, found useful, etc. during my PhD at Johns Hopkins University (JHU).
 
